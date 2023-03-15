@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+  cursor: none;
+  color:#ff8ab9;
+}
+
+.dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 80%;
+  box-shadow: 0 0 5px #ff00a2;
+  background-color: #ffc2dc;
+  position: absolute;
+}
+
+.center {
+  position: absolute;
+  top:45%;
+  left:45%
+}
